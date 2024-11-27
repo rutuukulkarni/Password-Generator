@@ -18,13 +18,10 @@ This project is a Random Password Generator that allows users to create secure, 
 
 Here are some screenshots showing the functionality of the project:
 
-![Image Alt Text][(https://github.com/your-username/your-repository/raw/main/assets/images/image1.png)
-](https://github.com/rutuukulkarni/Password-Generator/blob/main/image1.png
-)
+![Image Alt Text](https://github.com/rutuukulkarni/Password-Generator/blob/main/image1.png)
 
-![Image Alt Text][(https://github.com/your-username/your-repository/raw/main/assets/images/image2.png)
-](https://github.com/rutuukulkarni/Password-Generator/blob/main/image2.png
-)
+![Image Alt Text](https://github.com/rutuukulkarni/Password-Generator/blob/main/image2.png)
+
 
 
 
