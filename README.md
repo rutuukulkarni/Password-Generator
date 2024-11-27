@@ -5,24 +5,26 @@ This project is a Random Password Generator that allows users to create secure, 
 
 ## How It Works
 
-npm create vite@latest
-proj Name : Your Project Name
-cd Your Project Name
-npm i
-npm run dev
-npm install -D tailwindcss postcss autoprefixer
-npx tailwindcss init -p
+# npm create vite@latest 
+# proj Name : Your Project Name
+# cd Your Project Name
+# npm i
+# npm run dev
+# npm install -D tailwindcss postcss autoprefixer
+# npx tailwindcss init -p
 
 
 ## Screenshots
 
 Here are some screenshots showing the functionality of the project:
 
-![Screenshot 1](assets/images/Screenshot (2).png)
+![Image Alt Text][(https://github.com/your-username/your-repository/raw/main/assets/images/image1.png)
+](https://github.com/rutuukulkarni/Password-Generator/blob/main/Screenshot%20(2).png
+)
 
-
-![Screenshot 2](assets/images/Screenshot (3).png)
-
+![Image Alt Text][(https://github.com/your-username/your-repository/raw/main/assets/images/image1.png)
+](https://github.com/rutuukulkarni/Password-Generator/blob/main/Screenshot%20(3).png
+)
 
 
 
