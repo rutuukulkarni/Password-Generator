@@ -3,15 +3,15 @@
 
 This project is a Random Password Generator that allows users to create secure, customizable passwords. Users can choose the password length (up to 50 characters) and select which character types to include: numbers, uppercase letters, lowercase letters, and special characters. The tool generates a random password based on these preferences, ensuring it meets the user's desired criteria for security.
 
-## How It Works
+# How It Works
 
-# npm create vite@latest 
-# proj Name : Your Project Name
-# cd Your Project Name
-# npm i
-# npm run dev
-# npm install -D tailwindcss postcss autoprefixer
-# npx tailwindcss init -p
+### npm create vite@latest 
+### proj Name : Your Project Name
+### cd Your Project Name
+### npm i
+### npm run dev
+### npm install -D tailwindcss postcss autoprefixer
+### npx tailwindcss init -p
 
 
 ## Screenshots
@@ -19,11 +19,11 @@ This project is a Random Password Generator that allows users to create secure, 
 Here are some screenshots showing the functionality of the project:
 
 ![Image Alt Text][(https://github.com/your-username/your-repository/raw/main/assets/images/image1.png)
-](https://github.com/rutuukulkarni/Password-Generator/blob/main/Screenshot%20(2).png
+](https://github.com/rutuukulkarni/Password-Generator/blob/main/image1.png
 )
 
-![Image Alt Text][(https://github.com/your-username/your-repository/raw/main/assets/images/image1.png)
-](https://github.com/rutuukulkarni/Password-Generator/blob/main/Screenshot%20(3).png
+![Image Alt Text][(https://github.com/your-username/your-repository/raw/main/assets/images/image2.png)
+](https://github.com/rutuukulkarni/Password-Generator/blob/main/image2.png
 )
 
 
