@@ -1,7 +1,7 @@
 # React + Vite
 
-![Image Alt Text](src/screenshot (3).png)
-![Image Alt Text](src/screenshot (2).png)
+![Image Alt Text](src/Screenshot (3).png)
+![Image Alt Text](src/Screenshot (2).png)
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
